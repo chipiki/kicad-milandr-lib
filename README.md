@@ -1,7 +1,7 @@
 ﻿kicad-milandr-lib
 ====================
 
-This library contains symbols for Milandr's devices:
+This library contains KiCAD EDA symbols for Milandr's devices:
 
 1. **K1986BE92QI** (К1986ВЕ92QI) - MCU ARM Cortex-M3, 80MHz, 128Kb Flash, 32Kb RAM, -40C to +85, LQFP64
 [Product page](http://ic.milandr.ru/products/mikroskhemy_v_plastikovykh_korpusakh/k1986ve92qi/)
