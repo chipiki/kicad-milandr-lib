@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP K1986BE92QI
+D MCU ARM Cortex-M3, 80MHz, 128Kb Flash, 32Kb RAM, -40C to +85, LQFP64
+K К1986ВЕ92QI MDR32F9Q2I
+F http://ic.milandr.ru/upload/iblock/2ea/2ea1fef16f4aa9132a3ca415a66ab92c.pdf
+$ENDCMP
+#
+$CMP MDR32F1QI
+D MCU ARM Cortex-M0, 144МГц, 128Kb Flash, 48Kb RAM, ARINC429, 2xMIL-STD-1553, CAN, Ethernet 10/100 PHY Transceiver, 2xUART, 3xSPI, 8x12bit ADC, 2x12bit DAC, 32bit PWM, 3.3V, -40C to +85C, LQFP144
+K К1986ВЕ1Т 1986ВЕ1Т
+F http://ic.milandr.ru/upload/iblock/99f/99f74da953b04d24a73da45ae1730faa.pdf
+$ENDCMP
+#
+$CMP K5559IN10BSI
+D К5559ИН10БSI (SO-8) - Half-Duplex RS-485 Transceiver 2.5Mbps,
+K К5559ИН10БSI К5559ИН10Б K5559IN10BSI
+F http://ic.milandr.ru/upload/iblock/126/12691e33d6a6d6c83470c31df8bc9b07.pdf
+$ENDCMP
+#
+$CMP K5559IN14ASI
+D К5559ИН14АSI (SO-8) - High-Speed CAN Transceiver, 1Mbps, 5V supply.
+K К5559ИН14АSI К5559ИН14АУ К5559ИН14А
+F http://ic.milandr.ru/upload/iblock/1ea/1ea3f95b1f53255efa9cd3a4f5881bd7.pdf
+$ENDCMP
+#
+#End Doc Library
