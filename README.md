@@ -7,11 +7,11 @@ This library contains KiCAD EDA symbols for Milandr's devices:
 [Product page](http://ic.milandr.ru/products/mikroskhemy_v_plastikovykh_korpusakh/k1986ve92qi/)<br>
 [Datasheet for К1986ВЕ92QI](http://ic.milandr.ru/upload/iblock/2ea/2ea1fef16f4aa9132a3ca415a66ab92c.pdf)
 
-2. **MDR32F1QI** - MCU ARM Cortex-M0, 144МГц, 128Kb Flash, 48Kb RAM, ARINC429, 2xMIL-STD-1553, CAN, Ethernet 10/100 PHY Transceiver, 2xUART, 3xSPI, 8x12bit ADC, 2x12bit DAC, 32bit PWM, 3.3V, -40C to +85C, LQFP144<br>
+2. **MDR32F1QI** - MCU ARM Cortex-M0, 144MHz, 128Kb Flash, 48Kb RAM, ARINC429, 2xMIL-STD-1553, CAN, Ethernet 10/100 PHY Transceiver, 2xUART, 3xSPI, 8x12bit ADC, 2x12bit DAC, 32bit PWM, 3.3V, -40C to +85C, LQFP144<br>
 [Product page](http://ic.milandr.ru/products/mikroskhemy_v_plastikovykh_korpusakh/k1986ve1qi_lqfp144/)<br>
 [Datasheet for MDR32F1QI](http://ic.milandr.ru/upload/iblock/99f/99f74da953b04d24a73da45ae1730faa.pdf)
 
-3. **1986BE1T** (1986ВЕ1Т) - MCU ARM Cortex-M0, 144МГц, 128Kb Flash, 48Kb RAM, ARINC429, 2xMIL-STD-1553, CAN, Ethernet 10/100 PHY Transceiver, 2xUART, 3xSPI, 8x12bit ADC, 2x12bit DAC, 32bit PWM, 3.3V, -60C to +125, 4229.132-3<br>
+3. **1986BE1T** (1986ВЕ1Т) - MCU ARM Cortex-M0, 144MHz, 128Kb Flash, 48Kb RAM, ARINC429, 2xMIL-STD-1553, CAN, Ethernet 10/100 PHY Transceiver, 2xUART, 3xSPI, 8x12bit ADC, 2x12bit DAC, 32bit PWM, 3.3V, -60C to +125, 4229.132-3<br>
 [Product page](http://ic.milandr.ru/products/mikrokontrollery_i_protsessory/32_razryadnye_mikrokontrollery/1986ve1t/)<br>
 [Datasheet for MDR32F1QI](http://ic.milandr.ru/upload/iblock/99f/99f74da953b04d24a73da45ae1730faa.pdf)
 
