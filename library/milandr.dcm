@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 1645RU5U
+D 1645RU5U (1645РУ5У) - SRAM 512K*8bit 20ns 3-5.5V -60..+125C (5134.64-6)
+K 1645РУ5У
+F http://ic.milandr.ru/upload/iblock/c1a/c1ad19f79e19dd0d53e17d5142c3e4dd.pdf
+$ENDCMP
+#
 $CMP 1986BE1T
 D MCU ARM Cortex-M0, 144MHz, 128Kb Flash, 48Kb RAM, ARINC429, 2xMIL-STD-1553, CAN, Ethernet 10/100 PHY Transceiver, 2xUART, 3xSPI, 8x12bit ADC, 2x12bit DAC, 32bit PWM, 3.3V, -60C to +125, 4229.132-3
 K 1986BE1T 1986ВЕ1Т
