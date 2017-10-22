@@ -23,3 +23,6 @@ This library contains KiCAD EDA symbols for Milandr's devices:
 [Product page](http://ic.milandr.ru/products/mikroskhemy_v_plastikovykh_korpusakh/k5559in14au_so_8/)<br>
 [Datasheet for К5559ИН14АSI](http://ic.milandr.ru/upload/iblock/1ea/1ea3f95b1f53255efa9cd3a4f5881bd7.pdf)
 
+6. **1645RU5U** (1645РУ5У) - SRAM 512K*8bit, 20ns, 3-5.5V, -60..+125C, 5134.64-6<br>
+[Product page](http://ic.milandr.ru/products/mikroskhemy_pamyati/1645ru5u/)<br>
+[Datasheet for 1645РУ5У](http://ic.milandr.ru/upload/iblock/c1a/c1ad19f79e19dd0d53e17d5142c3e4dd.pdf)
