@@ -29,6 +29,6 @@ This library contains KiCAD EDA symbols for Milandr's devices:
 
 7. **1645RU4U** (1645РУ4У) - SRAM 1M*16bit, 10ns, 3.0-3.6V, core 1.8V, -60..+125C, (5134.64-6)<br>
 [Product page](http://ic.milandr.ru/products/mikroskhemy_pamyati/operativnye_zapominayushchie_ustroystva/1645ru4u/)<br>
-[Datasheet for 1645РУ5У](http://ic.milandr.ru/upload/iblock/d84/d84eaeea03e2cc2444e05d9919343630.pdf)
+[Datasheet for 1645РУ4У](http://ic.milandr.ru/upload/iblock/d84/d84eaeea03e2cc2444e05d9919343630.pdf)
 
  
