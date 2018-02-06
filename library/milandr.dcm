@@ -24,6 +24,12 @@ K К1986ВЕ92QI MDR32F9Q2I
 F http://ic.milandr.ru/upload/iblock/2ea/2ea1fef16f4aa9132a3ca415a66ab92c.pdf
 $ENDCMP
 #
+$CMP K1986BE92QI_0
+D MCU ARM Cortex-M3, 80MHz, 128Kb Flash, 32Kb RAM, -40C to +85, LQFP64
+K К1986ВЕ92QI MDR32F9Q2I
+F http://ic.milandr.ru/upload/iblock/2ea/2ea1fef16f4aa9132a3ca415a66ab92c.pdf
+$ENDCMP
+#
 $CMP K5559IN10BSI
 D К5559ИН10БSI (SO-8) - Half-Duplex RS-485 Transceiver 2.5Mbps,
 K К5559ИН10БSI К5559ИН10Б K5559IN10BSI
