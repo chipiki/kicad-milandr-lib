@@ -31,4 +31,7 @@ This library contains KiCAD EDA symbols for Milandr's devices:
 [Product page](http://ic.milandr.ru/products/mikroskhemy_pamyati/operativnye_zapominayushchie_ustroystva/1645ru4u/)<br>
 [Datasheet for 1645РУ4У](http://ic.milandr.ru/upload/iblock/d84/d84eaeea03e2cc2444e05d9919343630.pdf)
 
- 
+8. **1310PN1U** (1310ПН1У) - DC-DC 400kHz, 1.5A, in 5V out from 1.1V to 3.3V, (H06.24-1B)<br>
+[Product page](https://ic.milandr.ru/products/mikroskhemy_upravleniya_pitaniem/1310pn1u/)<br>
+[Datasheet for 1310ПН1У](https://ic.milandr.ru/upload/iblock/9f3/9f3edd29b5871ada2da842a81dfff1b1.pdf)
+
