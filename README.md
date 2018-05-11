@@ -11,7 +11,7 @@ This library contains KiCAD EDA symbols for Milandr's devices:
 [Product page](http://ic.milandr.ru/products/mikroskhemy_v_plastikovykh_korpusakh/k1986ve1qi_lqfp144/)<br>
 [Datasheet for MDR32F1QI](http://ic.milandr.ru/upload/iblock/99f/99f74da953b04d24a73da45ae1730faa.pdf)
 
-3. **1986BE1T** (1986ВЕ1Т) - MCU ARM Cortex-M0, 144MHz, 128Kb Flash, 48Kb RAM, ARINC429, 2xMIL-STD-1553, CAN, Ethernet 10/100 PHY Transceiver, 2xUART, 3xSPI, 8x12bit ADC, 2x12bit DAC, 32bit PWM, 3.3V, -60C to +125, 4229.132-3<br>
+3. **1986BE1T** (1986ВЕ1Т) - MCU ARM Cortex-M0, 144MHz, 128Kb Flash, 48Kb RAM, ARINC429, 2xMIL-STD-1553, CAN, Ethernet 10/100 PHY Transceiver, 2xUART, 3xSPI, 8x12bit ADC, 2x12bit DAC, 32bit PWM, 3.3V, -60C to +125, (4229.132-3)<br>
 [Product page](http://ic.milandr.ru/products/mikrokontrollery_i_protsessory/32_razryadnye_mikrokontrollery/1986ve1t/)<br>
 [Datasheet for MDR32F1QI](http://ic.milandr.ru/upload/iblock/99f/99f74da953b04d24a73da45ae1730faa.pdf)
 
@@ -35,3 +35,6 @@ This library contains KiCAD EDA symbols for Milandr's devices:
 [Product page](https://ic.milandr.ru/products/mikroskhemy_upravleniya_pitaniem/1310pn1u/)<br>
 [Datasheet for 1310ПН1У](https://ic.milandr.ru/upload/iblock/9f3/9f3edd29b5871ada2da842a81dfff1b1.pdf)
 
+9. **5600BB3T** (5600ВВ3Т) - 4x port IEEE802.3 Ethernet switch/hub 10/100Base-TX, 1x MII, JTAG, SPI, 3.3V, -60..+85C (4229.132-3)<br>
+[Product page](https://ic.milandr.ru/products/interfeysnye_mikroskhemy/5600vv3t/)<br>
+[Datasheet for 5600ВВ3Т](https://ic.milandr.ru/upload/iblock/957/95752f946d023ae3decd3ee0942224f5.pdf)
