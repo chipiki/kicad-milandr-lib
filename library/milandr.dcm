@@ -25,7 +25,7 @@ F http://ic.milandr.ru/upload/iblock/99f/99f74da953b04d24a73da45ae1730faa.pdf
 $ENDCMP
 #
 $CMP 5600BB3T
-D 4x port IEEE802.3 Ethernet switch/hub 10/100Base-TX
+D 4x port IEEE802.3 Ethernet switch/hub 10/100Base-TX, 1x MII, JTAG, SPI, 3.3V, -60..+85C (4229.132-3)
 K Ethernet
 F https://ic.milandr.ru/upload/iblock/957/95752f946d023ae3decd3ee0942224f5.pdf
 $ENDCMP
