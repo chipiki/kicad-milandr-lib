@@ -1,0 +1,8 @@
+*.bak
+*.bck
+*.~
+*.tmp
+./library/*.bak
+./library/*.bck
+./library/*.~
+./library/*.tmp
