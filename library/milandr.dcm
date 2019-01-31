@@ -36,12 +36,6 @@ K 1986BE1T 1986ВЕ1Т
 F http://ic.milandr.ru/upload/iblock/99f/99f74da953b04d24a73da45ae1730faa.pdf
 $ENDCMP
 #
-$CMP 5600BB3T
-D 4x port IEEE802.3 Ethernet switch/hub 10/100Base-TX, 1x MII, JTAG, SPI, 3.3V, -60..+85C (4229.132-3)
-K Ethernet
-F https://ic.milandr.ru/upload/iblock/957/95752f946d023ae3decd3ee0942224f5.pdf
-$ENDCMP
-#
 $CMP 1986ВЕ4
 D 1986ВЕ4У - 32bit ARM Cortex-M0, 36MHz, 128Kb Flash, 16Kb RAM, 8*24bit ADC, 2*UART, 1*SPI, 2.2V-3.6V,-60..+125, (Н18.64-1В)
 K 1986ВЕ4У
@@ -51,6 +45,12 @@ $ENDCMP
 $CMP 1986ВЕ91Т
 D 1986ВЕ91Т - 32bit ARM Cortex-M3, 80MHz, 128Kb Flash, 32Kb RAM, 16*12bit ADC, 12bit DAC, USB, SPI, I2C, UART, 2*CAN, 2.2V-3.6V, -60..+125, (4229.132-3)
 F https://ic.milandr.ru/upload/iblock/dd2/dd2c1a48f8fc33845a1d4060c46dfebb.pdf
+$ENDCMP
+#
+$CMP 5600BB3T
+D 4x port IEEE802.3 Ethernet switch/hub 10/100Base-TX, 1x MII, JTAG, SPI, 3.3V, -60..+85C (4229.132-3)
+K Ethernet
+F https://ic.milandr.ru/upload/iblock/957/95752f946d023ae3decd3ee0942224f5.pdf
 $ENDCMP
 #
 $CMP K1986BE92QI
