@@ -6,7 +6,7 @@ K DC-DC K1310PN1U
 F https://ic.milandr.ru/upload/iblock/9f3/9f3edd29b5871ada2da842a81dfff1b1.pdf
 $ENDCMP
 #
-$CMP 1636РР4У
+$CMP 1636PP4Y
 D 1636RR4U (1636РР4У) - Flash 16M (2*8bit), 65ns, 3.0-3.6V, Parallel interface +SPI, -60..+125C, (5134.64-6)
 K 1636РР4У
 F https://ic.milandr.ru/upload/iblock/0a2/0a20f802eb34c1f3658103d91d428f73.pdf
@@ -36,13 +36,13 @@ K 1986BE1T 1986ВЕ1Т
 F http://ic.milandr.ru/upload/iblock/99f/99f74da953b04d24a73da45ae1730faa.pdf
 $ENDCMP
 #
-$CMP 1986ВЕ4
+$CMP 1986BE4
 D 1986ВЕ4У - 32bit ARM Cortex-M0, 36MHz, 128Kb Flash, 16Kb RAM, 8*24bit ADC, 2*UART, 1*SPI, 2.2V-3.6V,-60..+125, (Н18.64-1В)
 K 1986ВЕ4У
 F https://ic.milandr.ru/upload/iblock/8aa/8aa1f04a865fb53f2284e6f886fea89c.pdf
 $ENDCMP
 #
-$CMP 1986ВЕ91Т
+$CMP 1986BE91T
 D 1986ВЕ91Т - 32bit ARM Cortex-M3, 80MHz, 128Kb Flash, 32Kb RAM, 16*12bit ADC, 12bit DAC, USB, SPI, I2C, UART, 2*CAN, 2.2V-3.6V, -60..+125, (4229.132-3)
 F https://ic.milandr.ru/upload/iblock/dd2/dd2c1a48f8fc33845a1d4060c46dfebb.pdf
 $ENDCMP
