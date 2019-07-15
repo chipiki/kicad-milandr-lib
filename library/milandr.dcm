@@ -83,4 +83,9 @@ K К1986ВЕ1Т 1986ВЕ1Т
 F http://ic.milandr.ru/upload/iblock/99f/99f74da953b04d24a73da45ae1730faa.pdf
 $ENDCMP
 #
+$CMP MLDR124
+D MLDR124
+K MLDR124
+$ENDCMP
+#
 #End Doc Library
